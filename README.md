@@ -1,2 +1,2 @@
-## Web-project
-# Simon Game 
+# Web-project
+## Simon Game 
