@@ -136,7 +136,3 @@ function disableHelp() {
 	document.getElementById('help').disabled = true;
 	document.getElementById('chances').style.color = "#FF0000";
   }
-
-
-// function updateHighestLevel() {set fso = CreateObject("Scripting.FileSystemObject"); 
-//     set s   = fso.CreateTextFile("<your Path>/filename.txt", True);}
